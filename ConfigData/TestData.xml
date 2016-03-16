@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<TestCases>
+  <TestCase name="TC_1553072">
+    <Parameter name="Server">hyd2bifmstst2</Parameter>
+    <Parameter name="FilePath">F:\MSOpsETL\FileConfigurations\CandidatesFilesSource\MSO_ChannelPartner_3256_7_FY1304_20130602090622333.txt</Parameter>
+    <Parameter name="tagKey">SampleSmartTag</Parameter>
+  </TestCase>
+  <TestCase name="TC_1553073">
+    <Parameter name="Server">hyd2bifmstst2</Parameter>
+    <Parameter name="FilePath">F:\MSOpsETL\FileConfigurations\CandidatesFilesSource\MSO_ChannelPartner_3256_7_FY1304_20130602090622334.txt</Parameter>
+    <Parameter name="tagKey">SampleSmartTa1g</Parameter>
+  </TestCase>
+</TestCases>

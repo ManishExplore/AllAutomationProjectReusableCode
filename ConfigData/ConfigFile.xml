@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<AutomationSettings>
+
+  <Browser>IE9</Browser>
+  <PublicUrl>http://public.merge.sys</PublicUrl>
+  <Url>http://management.stg.merge.sys</Url>
+  <SourceExcelFilePath>C:\MeterDataTest\</SourceExcelFilePath>
+  <TestResultsPath>C:\MeterDataTest</TestResultsPath>
+
+</AutomationSettings>
+
